@@ -1,6 +1,6 @@
 {
   "name": "vault-blog-starter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "type": "module",
   "description": "Write in an Obsidian vault, publish a citable static blog. Reader sidebars, bilingual APA citations, captioned images, search, RSS and SEO checks. By CMDSPACE.",
