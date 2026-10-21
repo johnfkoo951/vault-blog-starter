@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "reviewed": "2026-10-21",
+  "images": {
+    "/images/diagrams-as-code/hero-diagrams-as-code.png": {
+      "kind": "rendered-chart",
+      "caption": "HTML/CSS로 렌더링한 도표. 본문에 쓰는 mermaid 코드 블록의 모양을 보여 준다.",
+      "alt": "mermaid 코드 블록 예시가 적힌 카드 그림이다.",
+      "evidence": "Rendered from HTML/CSS with Playwright (Chrome) as a starter sample card, 2026-10-21",
+      "sha256": "19dc8a0fb96f1c99ffb3f742abcc2fd830d7d3cce037bdf8cd612d2f4cf32b8d"
+    },
+    "/images/getting-started/hero-getting-started.png": {
+      "kind": "rendered-chart",
+      "caption": "HTML/CSS로 렌더링한 도표. 볼트 노트가 content/posts를 거쳐 정적 블로그가 되는 흐름을 보여 준다.",
+      "alt": "볼트 노트에서 content/posts를 거쳐 정적 블로그로 이어지는 흐름을 세 개의 상자와 화살표로 그렸다.",
+      "evidence": "Rendered from HTML/CSS with Playwright (Chrome) as a starter sample card, 2026-10-21",
+      "sha256": "8ce4206c749f635b4ff24dcc985ea6759523e4580857c14068c53b638d53f6b2"
+    },
+    "/images/publish-a-post/hero-publish-a-post.png": {
+      "kind": "rendered-chart",
+      "caption": "HTML/CSS로 렌더링한 도표. 글 하나를 발행하는 단계를 순서대로 보여 준다.",
+      "alt": "원고, 이미지와 캡션, 인용 제목, 빌드와 배포의 네 단계를 화살표로 이은 그림이다.",
+      "evidence": "Rendered from HTML/CSS with Playwright (Chrome) as a starter sample card, 2026-10-21",
+      "sha256": "c06d6c5314bcc355429ca46d78b41d83cad8a3793fa91a52a885ca6e8d07106c"
+    },
+    "diagram:diagrams-as-code:5739746d": {
+      "kind": "code-diagram",
+      "caption": "코드로 렌더링한 도식. 원고가 정적 사이트가 되는 흐름과, 도식만 미리 렌더해 캐시로 두는 구조를 보여 준다.",
+      "alt": "볼트 노트가 블로그 원고와 빌드를 거쳐 정적 사이트가 되고, 도식은 미리 만든 캐시를 빌드가 읽는 흐름",
+      "evidence": "Mermaid source in content/posts/diagrams-as-code.md; static render by cmds-pele 0.2.0 (Pele 1.6.0) via npm run diagrams",
+      "srcSha256": "5739746deb32a3f23bcf400bef88a29728fbde638a7f33e3fe8e3df6eaf98712"
+    }
+  }
+}

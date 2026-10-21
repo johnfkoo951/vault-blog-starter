@@ -1,0 +1,9 @@
+{
+ "family": "CMDS Pele Sans",
+ "source": "Pretendard Regular/Bold, SIL OFL 1.1 (license kept in the font name table)",
+ "chars": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~고그노는다도로만본볼블사시식원이읽적정캐트",
+ "files": {
+  "cmds-pele-sans-400.woff": "448e4af9ff553df89bf276bea6e0201dfe82de7a5ff73f8ab97d626df79a585d",
+  "cmds-pele-sans-700.woff": "a2e80c3dbfcb6325c5e0ddffd040030784ad4f7f113ef02cbc24224ceda265a0"
+ }
+}

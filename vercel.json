@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "functions": {
+    "api/engagement.js": {
+      "includeFiles": "content/posts/*.md"
+    }
+  }
+}
